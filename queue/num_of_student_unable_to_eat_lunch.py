@@ -14,4 +14,4 @@ class Solution:
             else:
                 return res # no student prefers this type of sandwich, stop the process
 
-        return res # all students were able to eat lunch
+        return res # the remaining students who were unable to eat lunch
